@@ -1,0 +1,8 @@
+pseudocode to Calculate a running sum
+
+
+initiate a default number  zero
+Get integer input  from user 
+if input is a negative number break and return the sum of the number with the default number
+else if input is positive, add it to the default number and repeat the process
+

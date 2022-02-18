@@ -1,0 +1,6 @@
+pseudocodes reads in three numbers and writes them all in sorted order
+
+
+INPUT the numbers into a list
+
+SORT the array
